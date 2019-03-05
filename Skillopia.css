@@ -1,20 +1,40 @@
 * {
 	margin: 0;
-	padding: 0;
+	padding: 10;
 }
 
 body{
 	margin: 0;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 17px;
-	color: white;
+	color: black;
 	line-height: 1.6;
+	padding: 50;
 }
 
+/* unvisited link */
+a:link {
+  color: hotpink;
+}
 
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
 
 h1 {
 	color: yellow;
+	position: centre;
 }
 
 h2 {
@@ -24,7 +44,18 @@ h2 {
 #super_brain{
 	background-image: url("img/Super_brain.jpg");
 	background-size: cover;
-	background-position: centre;
+	background-position: relative;
 	height: 100vp;
+	border: 10px solid blue;
+	font:white;
 }
-	
+
+#summary{
+  width: 350px;
+  padding-top: 10px;
+  padding-left:50px;
+  color:black;
+  font-weight: bold;
+  
+  
+}
