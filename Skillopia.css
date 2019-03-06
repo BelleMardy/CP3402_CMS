@@ -48,12 +48,23 @@ h2 {
 	height: 100vp;
 	border: 10px solid blue;
 	font:white;
+	opacity: .8;
 }
 
 #summary{
   width: 350px;
   padding-top: 10px;
   padding-left:50px;
+  color:black;
+  font-weight: bold;
+  
+  
+}
+
+#summary_about{
+  width: 1000px;
+  padding-top: 10px;
+  padding-left:10px;
   color:black;
   font-weight: bold;
   
