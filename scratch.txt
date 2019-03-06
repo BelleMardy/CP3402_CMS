@@ -1,0 +1,67 @@
+About
+
+On 7 March 2019, the technology enabling skills to be uploaded into a person’s brain was patented (143 years to the day after the telephone was patented).
+
+This technology gives people immediate access to skills, that for whatever reason are unable to make this happen, through technical-osmosis.
+
+HOW?
+
+We implant a chip into your brain that allows neurons to develop synapses connections in that particular skill, thereby beginning to hardwire the brain to understand the activities associated about that skill. This then enables the brain to direct the body to physically perform the required dexterity required of those skills.
+
+Skillopia technology, unlike that of developing skills over time and/or through academic studies, gives the “Learnee” (a person who has employed Skillopia technology) instant access to the knowledge of recognised qualified individuals in that particular skill.
+
+Limited only by our ever growing database (and perhaps physical limitations), the Learnee is can learn anything from dancing, construction to landmine remover, pilot, even neurobiologist, just to name a few.
+
+WHY?
+
+Having these skills will allow you to:
+Build your own home for example
+Gain previously unattainable employment
+Self-development (although if removed your skills will no longer be recognised as per Skilloptia conditions and the associated organisations who also recognise this technology, you will retain some of the learnt information)
+Changing the world through research and development
+Achieve the marks at the educational institutions you have always wanted
+Become a better parent
+The list is endless
+
+Skillopia will give you the physical and educational skills to do what you want, however the innovation, imagination and creativity still belongs to you.
+__________________________________________________________________________________________________________
+
+
+<button onclick="myFunction()">Try it</button>
+			<script src="Skillopia.js"></script>
+			
+__________________________________________________________________________________________________________
+			
+COSTS:
+
+Available to you are different skill levels and then ability levels within those available skills and these associated costs. Starting from free to paid, please contact Skillopia for paid services.
+
+Skills as listed on database.
+
+Skill Level:
+Hobbyist – learn very limited skills for fun
+Academic – learn skills to enable study to better
+Professional – learn skills to gain employment
+Renowned – become an advanced professional, to contribute to and be recognised on the world stage
+
+For any skills please email Skilltopia.
+
+Ability:
+Basic – Free – limited skills
+Intermediate – Free – more than basic skills
+Advanced – Free – more than intermediate skills
+Required – One off fee – where the required skills are for personal use however regulations require one to be qualified ie construction of a building and the local council needs to approve the final build for liability purposes
+Career – Basic – contact Skillopia – One off fee – to gain employment in a particular role
+Career – Intermediate– contact Skillopia– Yearly/monthly fee – to gain employment in a particular role that need more than basic skills
+Career – Advanced– contact Skillopia– Yearly/monthly fee – to gain employment in a particular role that need more than intermediate skills
+Career – Expert– contact Skillopia– Yearly/monthly fee – to gain employment in a particular role that need more than advanced skills
+Research – Basic– contact Skillopia
+Research – Intermediate– contact Skillopia
+Research – Advanced– contact Skillopia
+Research – Expert – contact Skillopia
+Medical – Basic– contact Skillopia
+Medical – Intermediate– contact Skillopia
+Medical – Advanced– contact Skillopia
+Medical – Expert – contact Skillopia
+
+
